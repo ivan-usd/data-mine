@@ -1,4 +1,4 @@
-# ADS-502 Final Project Repo
+# ADS-502 Final Project
 
 #### -- Project Status: [Active]
 
