@@ -1,4 +1,4 @@
-# ADS-502 Final Project
+# In the Eye of the Great Resignation: Predicting Churn
 
 #### -- Project Status: [Active]
 
