@@ -3,6 +3,7 @@
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
+We will build a classification model that will predict whether or not an employee will leave the company in the next two years based on information such as education level, experience level, tenure, pay, age, gender, and level of company involvement. This model will be used by our client to predict whether or not an employee is planning on leaving the company so that internal HR can intervene in whatever way they see fit.
 The purpose of this project is to find a dataset, clean, pre-process it, and perform a data mining project on the data using either R or Python.
 
 ### Team Members
@@ -18,18 +19,13 @@ The purpose of this project is to find a dataset, clean, pre-process it, and per
 * Predictive Modeling
 * etc.
 
-### Technologies (still under consideration)
-* R 
+### Technologies
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Pandas, Jupyter
 
-## Project Description (still under consideration)
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+
+## Project Description
+The purpose of this project is to find a dataset, clean, pre-process it, and perform a data mining project on the data using Python.
 
 ## Needs of this project 
 
@@ -52,5 +48,8 @@ The purpose of this project is to find a dataset, clean, pre-process it, and per
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
 * [Blog Post](link)
+
+## References
+Tejashvi. (2021). Employee Future Prediction (Version 1).Retrieved from https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
 
 
