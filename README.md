@@ -39,7 +39,7 @@ The purpose of this project is to find a dataset, clean, pre-process it, and per
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](data) within this repo.
-3. Data processing/transformation scripts are being kept [here](notebooks)
+3. Data processing/transformation scripts are being kept [here](src)
 4. etc...
 
 
