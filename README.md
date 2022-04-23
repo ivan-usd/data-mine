@@ -49,7 +49,7 @@ The purpose of this project is to find a dataset, clean, pre-process it, and per
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Deliverables](deliverables)
-* [Results](notebooks/3.0-iac-auc-all-models.ipynb)
+* [ROC Performance](notebooks/3.0-iac-auc-all-models.ipynb)
 
 ## References
 Tejashvi. (2021). Employee Future Prediction (Version 1).Retrieved from https://www.kaggle.com/datasets/tejashvi14/employee-future-prediction
